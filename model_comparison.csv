@@ -1,0 +1,7 @@
+Model,Accuracy,Precision,Recall,F1-score,ROC-AUC,CV ROC-AUC (train)
+XGBoost (tuned),0.7431,0.5102,0.8048,0.6245,0.8424,0.8492
+Random Forest (tuned),0.7417,0.5084,0.8075,0.624,0.8416,0.8476
+Logistic Regression (tuned),0.7331,0.4983,0.8021,0.6148,0.8398,0.8446
+Logistic Regression (default),0.7353,0.5008,0.7995,0.6159,0.8383,0.8443
+XGBoost (default),0.7473,0.5162,0.7674,0.6172,0.8325,0.8399
+Random Forest (default),0.7523,0.5293,0.6043,0.5643,0.8081,0.8196
